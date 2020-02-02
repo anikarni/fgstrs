@@ -8,6 +8,7 @@ particular theme and no particular purpose. Just a space for public
 speaking in a not-so-public scenario.
 
 *Location*: Graefestr
+
 *Date*: Feb 9th, 4pm
 
 ## Joint Reading #1
@@ -15,6 +16,7 @@ speaking in a not-so-public scenario.
 We sit in a circle and read a full text together.
 
 *Location*: Friedelstr
+
 *Date*: Feb 23rd, 3pm
 
 ## Fear of overpopulation
@@ -22,4 +24,5 @@ We sit in a circle and read a full text together.
 Movie Screening and Discussion
 
 *Location*: Graefestr
+
 *Date*: TBD
