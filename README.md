@@ -1,6 +1,15 @@
 # Upcoming Events
 _____
 
+## Joint Reading - _Bhagavad Gita_
+
+We sit in a circle and read a full text together. This
+time, we take on the _Gita_.
+
+*Location*: Friedelstr
+
+*Date*: Feb 9th, 3pm
+
 ## Undisclosed discourse
 
 The first of a, hopefully, semi-regular series of talks, with no
@@ -9,15 +18,16 @@ speaking in a not-so-public scenario.
 
 *Location*: Graefestr
 
-*Date*: Feb 9th, 4pm
+*Date*: Feb 23rd, 4pm
 
-## Joint Reading #1
+## Joint Reading
 
-We sit in a circle and read a full text together.
+We sit in a circle and read a full text together. Text to be
+decided in the previous reading.
 
 *Location*: Friedelstr
 
-*Date*: Feb 23rd, 3pm
+*Date*: March 8th, 3pm
 
 ## Fear of overpopulation
 
