@@ -29,7 +29,7 @@ and loftiest thing the world has to show."
 
 **Location**: Friedelstr
 
-*Date**: Feb 9th, 3pm
+**Date**: Feb 9th, 3pm
 
 ## Undisclosed discourse
 
