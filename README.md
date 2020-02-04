@@ -27,7 +27,7 @@ which Wilhelm von Humboldt describes as  "The most beautiful, perhaps the only
 true philosophical song existing in any known tongue ... perhaps the deepest
 and loftiest thing the world has to show."
 
-**Location**: Friedelstr\
+**Location**: Friedelstr<br/>
 **Date**: Feb 9th, 3pm
 
 ## Undisclosed discourse
@@ -36,7 +36,7 @@ The first of a, hopefully, semi-regular series of talks, with no
 particular theme and no particular purpose. Just a space for public
 speaking in a not-so-public scenario.
 
-**Location**: Graefestr\
+**Location**: Graefestr<br/>
 **Date**: Feb 23rd, 4pm
 
 ## Joint Reading
@@ -44,12 +44,12 @@ speaking in a not-so-public scenario.
 We sit in a circle and read a full text together. Text to be
 decided in the previous reading.
 
-**Location**: Friedelstr\
+**Location**: Friedelstr<br/>
 **Date**: March 8th, 3pm
 
 ## Fear of overpopulation
 
 Movie Screening and Discussion
 
-**Location**: Graefestr\
+**Location**: Graefestr<br/>
 **Date**: TBD
