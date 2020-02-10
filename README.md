@@ -45,7 +45,7 @@ We sit in a circle and read a full text together. Text to be
 decided in the previous reading.
 
 **Location**: Friedelstr<br/>
-**Date**: March 8th, 3pm
+**Date**: tba
 
 ## Fear of overpopulation
 
