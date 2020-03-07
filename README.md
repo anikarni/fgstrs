@@ -1,16 +1,28 @@
 # Upcoming Events
 _____
 
-## Undisclosed discourse - Puzzles
+## Rob Vollmert on Puzzles
+
 
 The first of a, hopefully, semi-regular series of talks, with no
 particular theme and no particular purpose. Just a space for public
 speaking in a not-so-public scenario.
 
-This time, the topic will be around puzzles.
+Rob Vollmert will be talking about puzzles. In his words:
+
+"I’ll give on overview of the kind of puzzling I’m involved with, including the
+types of puzzles (think “Sudoku”, but also don’t — there’s a huge variety),
+where and how and why I like to solve and construct, the international puzzling
+community and competitive scene."
+
+A lot of you have met Rob. What you might not know is that Rob has (with the
+German team) twice won the World Puzzle Championship, and has also individually
+won the German Puzzle Championship. So there aren't that many people to learn
+about puzzles from!
+
 
 **Location**: Graefestr<br/>
-**Date**: March 15th, 4pm
+**Date**: March 15th, 3pm
 
 ## Joint Reading
 
