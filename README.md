@@ -17,8 +17,8 @@ community and competitive scene."
 
 A lot of you have met Rob. What you might not know is that Rob has (with the
 German team) twice won the World Puzzle Championship, and has also individually
-won the German Puzzle Championship. So there aren't that many people to learn
-about puzzles from!
+won the German Puzzle Championship. There aren't that many people better
+qualified to talk about puzzles!
 
 
 **Location**: Graefestr<br/>
